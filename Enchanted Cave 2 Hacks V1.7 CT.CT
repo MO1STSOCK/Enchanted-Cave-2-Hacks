@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="45">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>0</ID>
+      <Description>"Money"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"Enchanted Cave 2.exe"+25AD7C0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>31</ID>
+      <Description>"Player Info"</Description>
+      <Options moHideChildren="1"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>9</ID>
+          <Description>"Base Stats"</Description>
+          <Options moHideChildren="1"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>1</ID>
+              <Description>"Max Health"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <GroupHeader>1</GroupHeader>
+              <Address>7FF75F94D73C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>5</ID>
+              <Description>"Skill Points"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"Enchanted Cave 2.exe"+25AD7E0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2</ID>
+              <Description>"Base Damage"</Description>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"Enchanted Cave 2.exe"+25AD74C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>4</ID>
+              <Description>"Base Defense"</Description>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"Enchanted Cave 2.exe"+25AD750</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>3</ID>
+              <Description>"Base Magic"</Description>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"Enchanted Cave 2.exe"+25AD754</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>6</ID>
+              <Description>"Max Mana"</Description>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"Enchanted Cave 2.exe"+25AD740</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>11</ID>
+          <Description>"Elemental Stats"</Description>
+          <Options moHideChildren="1"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>10</ID>
+              <Description>"Fire"</Description>
+              <Options moHideChildren="1"/>
+              <GroupHeader>1</GroupHeader>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>7</ID>
+                  <Description>"Fire Defense"</Description>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>"Enchanted Cave 2.exe"+25AD758</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>8</ID>
+                  <Description>"Fire Damage"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>"Enchanted Cave 2.exe"+25AD770</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>13</ID>
+              <Description>"Earth"</Description>
+              <Options moHideChildren="1"/>
+              <GroupHeader>1</GroupHeader>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>12</ID>
+                  <Description>"Earth Defense"</Description>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>"Enchanted Cave 2.exe"+25AD75C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>33</ID>
+                  <Description>"Earth Attack"</Description>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>"Enchanted Cave 2.exe"+25AD774</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>15</ID>
+              <Description>"Wind"</Description>
+              <Options moHideChildren="1"/>
+              <GroupHeader>1</GroupHeader>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>14</ID>
+                  <Description>"Wind Attack"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>"Enchanted Cave 2.exe"+25AD778</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>19</ID>
+                  <Description>"Wind Defense"</Description>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>"Enchanted Cave 2.exe"+25AD760</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>17</ID>
+              <Description>"Darkness"</Description>
+              <Options moHideChildren="1"/>
+              <GroupHeader>1</GroupHeader>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>16</ID>
+                  <Description>"Dark Attack"</Description>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>"Enchanted Cave 2.exe"+25AD780</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>18</ID>
+                  <Description>"Dark Defense"</Description>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>"Enchanted Cave 2.exe"+25AD768</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>21</ID>
+              <Description>"Ice"</Description>
+              <Options moHideChildren="1"/>
+              <GroupHeader>1</GroupHeader>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>20</ID>
+                  <Description>"Ice Attack"</Description>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>"Enchanted Cave 2.exe"+25AD77C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>22</ID>
+                  <Description>"Ice Defense"</Description>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>"Enchanted Cave 2.exe"+25AD764</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>24</ID>
+              <Description>"Light"</Description>
+              <Options moHideChildren="1"/>
+              <GroupHeader>1</GroupHeader>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>23</ID>
+                  <Description>"Light Defense"</Description>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>"Enchanted Cave 2.exe"+25AD76C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>28</ID>
+                  <Description>"Light Damage"</Description>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>"Enchanted Cave 2.exe"+25AD784</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>30</ID>
+          <Description>"Misc. Stats"</Description>
+          <Options moHideChildren="1"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>27</ID>
+              <Description>"Bleed Damage"</Description>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"Enchanted Cave 2.exe"+25AD7B0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>29</ID>
+              <Description>"Life Drain Damage"</Description>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"Enchanted Cave 2.exe"+25AD7B4</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>26</ID>
+          <Description>"Regenerative Stats"</Description>
+          <Options moHideChildren="1"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>25</ID>
+              <Description>"Mana Regeneration"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"Enchanted Cave 2.exe"+25AD7AC</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>32</ID>
+              <Description>"Health Regeneration"</Description>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"Enchanted Cave 2.exe"+25AD7A8</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
